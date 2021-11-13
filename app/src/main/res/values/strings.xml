@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">loginPage</string>
+    <string name="sign_in">Sign in</string>
+    <string name="text">Sign in</string>
+    <string name="text1">join a meeting</string>
+    <string name="text2"> sign up for free</string>
+    <string name="text4">Enter Email,phone or Skype</string>
+    <string name="text6">Microsoft Team</string>
+
+    <string name="text5">Get started with your work,school or                                    personal Microsoft account</string>
+    <string name="Get_help_with_signing_in">
+        <a href="https://www.microsoft.com/en-in/microsoft-teams/log-in">Get help with signing in</a>
+    </string>
+</resources>
